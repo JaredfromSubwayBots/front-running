@@ -17,7 +17,7 @@ npm install
 Step 3: Configure the Bot
 The bot can be configured by editing the bot.js file. There are two variables that need to be edited:
 
-var wss = "wss://your-fastlynode-url": This variable should be replaced with the WebSocket node URL that you want to use. You can obtain this URL from FastlyNode.
+var wss = "wss://yourquicknode-url": This variable should be replaced with the WebSocket node URL that you want to use. You can obtain this URL from Quicknode.
 
 const secretKey = "your secret key": This variable should be replaced with your secret key, which can be obtained from a web3 wallet like MetaMask. Be sure to keep your secret key safe and secure.
 
